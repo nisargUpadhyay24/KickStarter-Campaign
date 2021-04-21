@@ -2,7 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/13681798/115557309-950aee80-a27f-11eb-9302-5e1db49670eb.png)
 
-This project is using a dataset about various kickstarter campaigns from year 2009 to 2018 from different countries.
+This project is using datasets about various kickstarter campaigns from year 2009 to 2018 from different countries.
 The dataset is taken from Kaggle for exploration/data analysis purposes.
+
+The main purpose of this analysis is to create a dynamic reporting tab with the help of Pivot tables and Pivot charts.
 
 
