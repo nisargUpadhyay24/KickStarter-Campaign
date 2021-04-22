@@ -5,6 +5,6 @@
 This project is using datasets about various kickstarter campaigns from year 2009 to 2018 from different countries.
 The dataset is taken from Kaggle for exploration/data analysis purposes.
 
-Please visit for further information
+Please visit https://github.com/nisargUpadhyay24/KickStarter-Campaign/tree/main/KickStarter-Campaign-Analysis for further information
 
 
