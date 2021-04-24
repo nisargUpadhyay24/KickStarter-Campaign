@@ -7,8 +7,8 @@ Every project creator sets their project's funding goal and deadline. If people 
 
 ## Table of Contents
 ### 1) Introduction
-2) Data Cleaning
-3) Data Reporting & Dashboard
-4) Data Analysis
-5) Conclusion
+### 2) Data Cleaning
+### 3) Data Reporting & Dashboard
+### 4) Data Analysis
+### 5) Conclusion
 
