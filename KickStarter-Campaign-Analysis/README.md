@@ -14,3 +14,5 @@ Every project creator sets their project's funding goal and deadline. If people 
 
 
 ## 1. Introduction
+The data set is retrieed from Kaggle for exlration/practice purposes.
+Here, we are looking at a huge data set regarding the different kickstarted campaigns held on Kickstarter.com between the year 2009 and 2018.
