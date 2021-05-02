@@ -57,4 +57,14 @@ Now let's see how this first dataset needs to be cleaned before we do any analys
 
 It looks more readable this way.
 
+#### Step 2: Getting rid of the extra spaces and uppercase/lower case differences:
+   There are several text columns in the dataset where there extra spaces in some recoeds,and the case of the letters is not consistent in a few columns, mainly in currency and country. So, to solve that issue we used a combination of Excel functions TRIM and PROPER.
+   After using these functions, there are no extra white spaces or case differences in the worksheet.
+   > This would be a very crucial step when we create a report to represent our data in charts and dashboards.
+   
+   Here is how the dataset looks like after formatting changes:
+   
+![image](https://user-images.githubusercontent.com/13681798/116828556-6dfcc880-ab6d-11eb-823e-367edc1b4d7e.png)
+
+
 
