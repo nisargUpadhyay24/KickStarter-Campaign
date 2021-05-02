@@ -45,3 +45,9 @@ And, the second dataset looks like this:
 
 ![image](https://user-images.githubusercontent.com/13681798/116826411-d5ad1680-ab61-11eb-8015-a186a6e6d50d.png)
 
+Now let's see how this first dataset needs to be cleaned before we do any analysis or reporting with it.
+
+
+## 2. Data Cleaning
+
+
