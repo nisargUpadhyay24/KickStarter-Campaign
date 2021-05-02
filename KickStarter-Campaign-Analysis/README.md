@@ -38,5 +38,8 @@ We also used another data set with the country code and the corresponding countr
 
 
 Here is how the first dataset looks like:
-Screenshot 2021-05-02 at 4.13.36 PM![image](https://user-images.githubusercontent.com/13681798/116826323-70f1bc00-ab61-11eb-8c0f-829d9113b16d.png)
+[image](https://user-images.githubusercontent.com/13681798/116826323-70f1bc00-ab61-11eb-8c0f-829d9113b16d.png)
+
+And, the second dataset looks like this:
+[image](https://user-images.githubusercontent.com/13681798/116826411-d5ad1680-ab61-11eb-8015-a186a6e6d50d.png)
 
