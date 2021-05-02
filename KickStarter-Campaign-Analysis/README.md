@@ -14,9 +14,9 @@ Every project creator sets their project's funding goal and deadline. If people 
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## 1. Introduction
-The data set is retrieved from Kaggle for exlration/practice purposes.
+The data set is retrieved from [Kaggle.com](url) for exlration/practice purposes.
 
-Here, we are looking at a huge data set regarding the different kickstarted campaigns held on [Kickstarter.com](url) between the year 2009 and 2018.
+Here, we are looking at a huge dataset regarding the different kickstarter campaigns held on [Kickstarter.com](url) between the year 2009 and 2018.
 The dataset contains more than 378,000 rowns in it. 
 
 The dataset contains the following fields:
