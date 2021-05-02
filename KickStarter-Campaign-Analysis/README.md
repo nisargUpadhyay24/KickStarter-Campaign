@@ -20,16 +20,18 @@ Here, we are looking at a huge data set regarding the different kickstarted camp
 The dataset contains more than 378,000 rowns in it. 
 
 The dataset contains the following fields:
-- ID: unique campaign ID
-- Name: name of the campaign
-- Category: which category the campaigns fall into
-- Main Category: high level categories covering the sub categories
-- Currency: which currency did this campaign was posted in (USD, CAD, GBP, etc.)
-- Deadline: the deadline for the campaign to finish
-- Launched: when was the campaign launched
-- Pledged: the pledged amount in the original currency
-- State: what is the state of the campaign (Successful, cancelled, failed, etc.)
-- Backers: # of backers who supported a particular project
-- Country: the country where the campaign took place
-- USD pledged: the total amount in USD pledged for that particular campaign
-- USD Goal: the goal set by the creator in USD for the campaign
+- **ID**: unique campaign ID
+- **Name**: name of the campaign
+- **Category**: which category the campaigns fall into
+- **Main** **Category**: high level categories covering the sub categories
+- **Currency**: which currency did this campaign was posted in (USD, CAD, GBP, etc.)
+- **Deadline**: the deadline for the campaign to finish
+- **Launched**: when was the campaign launched
+- **Pledged**: the pledged amount in the original currency
+- **State**: what is the state of the campaign (Successful, cancelled, failed, etc.)
+- **Backers**: # of backers who supported a particular project
+- **Country**: the two digit code for the country where the campaign took place
+- **USD** **pledged**: the total amount in USD pledged for that particular campaign
+- **USD** **Goal**: the goal set by the creator in USD for the campaign
+
+We also used another data set with the country code and the corresponding country name to join with the original data set to make the reporting easier.
