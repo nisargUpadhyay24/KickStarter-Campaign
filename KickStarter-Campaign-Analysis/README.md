@@ -37,11 +37,11 @@ The dataset contains the following fields:
 We also used another data set with the country code and the corresponding country name to join with the original data set to make the reporting easier.
 
 
-Here is how the first dataset looks like:
+Here is how the **first dataset** looks like:
 ![image](https://user-images.githubusercontent.com/13681798/116826535-6c79d300-ab62-11eb-826e-c490b6187735.png)
 
 
-And, the second dataset looks like this:
+And, the **second dataset** looks like this:
 
 ![image](https://user-images.githubusercontent.com/13681798/116826411-d5ad1680-ab61-11eb-8015-a186a6e6d50d.png)
 
@@ -51,8 +51,10 @@ Now let's see how this first dataset needs to be cleaned before we do any analys
 ## 2. Data Cleaning
 
 #### Step 1: Changing the naming convention:
-   For the image shared above, it is clear that the names of the fields doesn't align with best practices, so the names need to be changed first. Here is how is looks after changing the names:
+   From the image shared above, it is clear that the names of the fields doesn't align with best practices, so the names need to be changed first. Here is how is looks after changing the names:
+   
 ![image](https://user-images.githubusercontent.com/13681798/116827765-c2517980-ab68-11eb-9432-758d966ff7b4.png)
 
 It looks more readable this way.
+
 
