@@ -35,3 +35,8 @@ The dataset contains the following fields:
 - **USD** **Goal**: the goal set by the creator in USD for the campaign
 
 We also used another data set with the country code and the corresponding country name to join with the original data set to make the reporting easier.
+
+
+Here is how the first dataset looks like:
+Screenshot 2021-05-02 at 4.13.36 PM![image](https://user-images.githubusercontent.com/13681798/116826323-70f1bc00-ab61-11eb-8c0f-829d9113b16d.png)
+
