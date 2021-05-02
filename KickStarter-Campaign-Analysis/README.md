@@ -14,6 +14,22 @@ Every project creator sets their project's funding goal and deadline. If people 
 
 
 ## 1. Introduction
-The data set is retrieed from Kaggle for exlration/practice purposes.
+The data set is retrieved from Kaggle for exlration/practice purposes.
 
 Here, we are looking at a huge data set regarding the different kickstarted campaigns held on [Kickstarter.com](url) between the year 2009 and 2018.
+The dataset contains more than 378,000 rowns in it. 
+
+The dataset contains the following fields:
+- ID: unique campaign ID
+- Name: name of the campaign
+- Category: which category the campaigns fall into
+- Main Category: high level categories covering the sub categories
+- Currency: which currency did this campaign was posted in (USD, CAD, GBP, etc.)
+- Deadline: the deadline for the campaign to finish
+- Launched: when was the campaign launched
+- Pledged: the pledged amount in the original currency
+- State: what is the state of the campaign (Successful, cancelled, failed, etc.)
+- Backers: # of backers who supported a particular project
+- Country: the country where the campaign took place
+- USD pledged: the total amount in USD pledged for that particular campaign
+- USD Goal: the goal set by the creator in USD for the campaign
