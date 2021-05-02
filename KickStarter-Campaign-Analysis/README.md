@@ -51,7 +51,7 @@ Now let's see how this first dataset needs to be cleaned before we do any analys
 ## 2. Data Cleaning
 
 #### Step 1: Changing the naming convention:
-    For the image shared above, it is clear that the names of the fields doesn't align with best practices, so the names need to be changed first. Here is how is looks after changing the names:
+   For the image shared above, it is clear that the names of the fields doesn't align with best practices, so the names need to be changed first. Here is how is looks after changing the names:
 ![image](https://user-images.githubusercontent.com/13681798/116827765-c2517980-ab68-11eb-9432-758d966ff7b4.png)
 
 It looks more readable this way.
