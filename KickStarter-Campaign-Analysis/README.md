@@ -77,4 +77,5 @@ Based on the requirements of the projects you are working on, we can manage this
 
 For our project purposes, it is statistically insignificant to have an impact. So we would go ahead and delete these **3797** rows.
 And now, the data looks like this:
+
 ![image](https://user-images.githubusercontent.com/13681798/116876948-43e9eb80-abeb-11eb-9839-c07430ef2695.png)
