@@ -17,7 +17,7 @@ ________________________________________________________________________________
 The data set is retrieved from [Kaggle](https://www.kaggle.com/) for exlration/practice purposes.
 
 Here, we are looking at a huge dataset regarding the different kickstarter campaigns held on [Kickstarter](https://www.kickstarter.com/) between the year 2009 and 2018.
-The dataset contains more than 378,000 rowns in it. 
+The dataset contains more than 378,000 rows in it. 
 
 The dataset contains the following fields:
 - **ID**: unique campaign ID
@@ -60,7 +60,7 @@ It looks more readable this way.
 #### Step 2: Getting rid of the extra spaces and uppercase/lower case differences:
    There are several text columns in the dataset where there extra spaces in some recoeds,and the case of the letters is not consistent in a few columns, mainly in currency and country. So, to solve that issue we used a combination of Excel functions TRIM and PROPER.
    After using these functions, there are no extra white spaces or case differences in the worksheet.
-   > This would be a very crucial step when we create a report to represent our data in charts and dashboards.
+   > This is a very crucial step that will help us when we create a report to represent our data in charts and dashboards.
    
    Here is how the dataset looks like after formatting changes:
    
@@ -68,3 +68,12 @@ It looks more readable this way.
 
    We also centre aligned the columns to make it more readable.
 
+#### Step 3: Getting rid of the corrupted data:
+   In the first dataset, there are some rows with corrupted data in the Country field as below:
+![image](https://user-images.githubusercontent.com/13681798/116875911-a9d57380-abe9-11eb-9c99-4c206d33e293.png)
+
+There are total **3797** rows with N,0" as a country code in the dataset, which represents 1% of the overall data.
+Based on the requirements of the projects you are working on, we can manage this in many different way.
+
+For our project purposes, it is statistically insignificant to have an impact. So we would go ahead and delete these **3797** rows.
+And now, the data looks like this:
