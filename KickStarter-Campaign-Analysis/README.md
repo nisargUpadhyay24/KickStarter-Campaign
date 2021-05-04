@@ -82,4 +82,5 @@ And now, the data looks like this:
 
 #### Step 4: Adding the actual name of the coutry in the dataset:
    If you look at the first dataset, it only has two digit country codes under the country column, which would not serve the purpose of the analysis as well as the dashboards we are going to create. _It would be pretty difficult to remember over a hundred countries from a two digit code._
+   
    So, to mitigate this situation, we are going to use advanced excel functions. We are going to use the combination of **INDEX** and **MATCH**.
