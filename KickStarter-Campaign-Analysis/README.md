@@ -85,3 +85,8 @@ And now, the data looks like this:
    If you look at the first dataset, it only has two digit country codes under the country column, which would not serve the purpose of the analysis as well as the dashboards we are going to create. _It would be pretty difficult to remember over a hundred countries from a two digit code._
    
    So, to mitigate this situation, we are going to use advanced excel functions. We are going to use the combination of **INDEX** and **MATCH**. And for this purpose, we will be using our **second dataset as mentioned above.**
+   
+   It can be argued that there are many ways to map the country name to the country code such as VLOOKUP, INDIRECT, etc., but from my experience INDEX+MATCH is a more robust and almost unbreakable way to map the values back. (_This methond will also work if there are any changes to the second file where you are getting the info from, which would not be the case with VLOOKUP._)
+   
+   This is how the formula of INDEX+MATCH looks like:
+   =INDEX('[Dataset 3 - Country Code Mapping.xlsx]Country Code Mapping'!$B:$B,MATCH(K2,'[Dataset 3 - Country Code Mapping.xlsx]Country Code Mapping'!$A:$A,0))
