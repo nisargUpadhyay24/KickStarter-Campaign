@@ -59,6 +59,7 @@ It looks more readable this way.
 
 #### Step 2: Getting rid of the extra spaces and uppercase/lower case differences:
    There are several text columns in the dataset where there extra spaces in some recoeds,and the case of the letters is not consistent in a few columns, mainly in currency and country. So, to solve that issue we used a combination of Excel functions TRIM and PROPER.
+   
    After using these functions, there are no extra white spaces or case differences in the worksheet.
    > This is a very crucial step that will help us when we create a report to represent our data in charts and dashboards.
    
@@ -83,4 +84,4 @@ And now, the data looks like this:
 #### Step 4: Adding the actual name of the coutry in the dataset:
    If you look at the first dataset, it only has two digit country codes under the country column, which would not serve the purpose of the analysis as well as the dashboards we are going to create. _It would be pretty difficult to remember over a hundred countries from a two digit code._
    
-   So, to mitigate this situation, we are going to use advanced excel functions. We are going to use the combination of **INDEX** and **MATCH**.
+   So, to mitigate this situation, we are going to use advanced excel functions. We are going to use the combination of **INDEX** and **MATCH**. And for this purpose, we will be using our **second dataset as mentioned above.**
