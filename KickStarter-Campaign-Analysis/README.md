@@ -55,7 +55,9 @@ Now let's see how this first dataset needs to be cleaned before we do any analys
    
 ![image](https://user-images.githubusercontent.com/13681798/116827765-c2517980-ab68-11eb-9432-758d966ff7b4.png)
 
-It looks more readable this way. **Note:** Changing the name is also important as it will be reflected in the dashboard later.
+It looks more readable this way. 
+
+**Note:** Changing the name is also important as it will be reflected in the dashboard later.
 
 #### Step 2: Getting rid of the extra spaces and uppercase/lowercase differences:
    There are several text columns in the dataset where there extra spaces in some recoeds,and the case of the letters is not consistent in a few columns, mainly in currency and country. So, to solve that issue we used a combination of Excel functions TRIM and PROPER.
