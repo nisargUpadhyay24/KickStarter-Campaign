@@ -90,5 +90,5 @@ And now, the data looks like this:
    
    After using the combination **INDEX** + **MATCH**, this is how the original dataet would look like:
    
-   Screenshot 2021-05-09 at 8.41.40 PM![image](https://user-images.githubusercontent.com/13681798/117592551-fb5c9180-b106-11eb-898d-8be1384fbd3c.png)
+![image](https://user-images.githubusercontent.com/13681798/117592551-fb5c9180-b106-11eb-898d-8be1384fbd3c.png)
 
