@@ -121,3 +121,16 @@ The three slicers look like this:
 
 ![image](https://user-images.githubusercontent.com/13681798/117743763-6d031100-b1d5-11eb-904f-21c3cdb9a53b.png)
 
+
+Now, if you click on any of the slicers, you will notice that the column chart as well as second pivot table changes because they are connected, but the first pivot table remains unchanged.
+
+
+### Making the dashboard responsive:
+
+We would need to connect both of the pivot tables with the slicers in order to have a truely interactive dashboard. The steps to achieve that is as below:
+1) Select any one of the slicers
+2) Click on 'Slicer' menu -> click on 'Report Connections'
+
+      Here, you will see that the slicer is only connected to one of the pivot table as shown below:
+      
+![image](https://user-images.githubusercontent.com/13681798/117744643-17c7ff00-b1d7-11eb-9ebf-e4edfbb82fb6.png)
