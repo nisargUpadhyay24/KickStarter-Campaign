@@ -96,3 +96,12 @@ And now, the data looks like this:
 
 ## 3. Data Reporting & Dashboard
 
+For this project, we want to create a dashboard that shows the project related information over the course of 10 year, with the help of different filters. To achieve that - before we jump into designing our dashboard - we need to create a couple of pivot tables from the dataset.
+
+The first pivot table gives us the information about the cumulative project details like total # of projects, total # of backers, etc. Here is what the first pivot table looks like:
+
+Screenshot 2021-05-10 at 8.56.12 PM![image](https://user-images.githubusercontent.com/13681798/117742182-2eb82280-b1d2-11eb-9422-50c06d3a9850.png)
+
+
+
+
