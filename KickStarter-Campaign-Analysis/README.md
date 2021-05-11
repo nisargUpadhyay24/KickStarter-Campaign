@@ -103,6 +103,12 @@ The first pivot table gives us the information about the cumulative project deta
 ![image](https://user-images.githubusercontent.com/13681798/117742292-6757fc00-b1d2-11eb-87a0-6cadd9b6a274.png)
 
 
+The second pivot table gives us the information about the number project per year, and the table looks like this:
+
+![image](https://user-images.githubusercontent.com/13681798/117742429-c453b200-b1d2-11eb-9aca-37a8605983fd.png)
+
+
+
 
 
 
