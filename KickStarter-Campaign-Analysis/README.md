@@ -100,7 +100,8 @@ For this project, we want to create a dashboard that shows the project related i
 
 The first pivot table gives us the information about the cumulative project details like total # of projects, total # of backers, etc. Here is what the first pivot table looks like:
 
-Screenshot 2021-05-10 at 8.56.12 PM![image](https://user-images.githubusercontent.com/13681798/117742182-2eb82280-b1d2-11eb-9422-50c06d3a9850.png)
+![image](https://user-images.githubusercontent.com/13681798/117742292-6757fc00-b1d2-11eb-87a0-6cadd9b6a274.png)
+
 
 
 
