@@ -115,5 +115,8 @@ We will use **pivot charts** from the 'Pivot Table Analyse' tab, and select colu
 
 _**Note**_: This is just a preliminary chart, we will do modifications to it as we go along.
 
+Once we have that ready, we will add 3 slicers from the 'Insert Slicers' menu option - one for **Country**, one for **Project** **State**, and one for **Category**.
+The three slicers look like this:
 
+![image](https://user-images.githubusercontent.com/13681798/117743763-6d031100-b1d5-11eb-904f-21c3cdb9a53b.png)
 
