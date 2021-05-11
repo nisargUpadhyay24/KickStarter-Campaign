@@ -134,3 +134,6 @@ We would need to connect both of the pivot tables with the slicers in order to h
       Here, you will see that the slicer is only connected to one of the pivot table as shown below:
       
 ![image](https://user-images.githubusercontent.com/13681798/117744643-17c7ff00-b1d7-11eb-9ebf-e4edfbb82fb6.png)
+
+
+3) Repeat the same process for thr remaining two slicers.
