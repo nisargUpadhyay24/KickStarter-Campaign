@@ -10,7 +10,6 @@ Every project creator sets their project's funding goal and deadline. If people 
 #### 2) Data Cleaning
 #### 3) Data Reporting & Dashboard
 #### 4) Data Analysis
-#### 5) Conclusion
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## 1. Introduction
@@ -93,4 +92,7 @@ And now, the data looks like this:
    After using the combination **INDEX** + **MATCH**, this is how the original dataet would look like:
    
 ![image](https://user-images.githubusercontent.com/13681798/117592551-fb5c9180-b106-11eb-898d-8be1384fbd3c.png)
+
+
+## 3. Data Reporting & Dashboard
 
