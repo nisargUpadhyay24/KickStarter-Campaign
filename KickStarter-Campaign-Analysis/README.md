@@ -113,7 +113,7 @@ We will use **pivot charts** from the 'Pivot Table Analyse' tab, and select colu
 
 ![image](https://user-images.githubusercontent.com/13681798/117743220-5e682a00-b1d4-11eb-9e8c-bf0ef64ee508.png)
 
-
+_**Note**_: This is just a preliminary chart, we will do modifications to it as we go along.
 
 
 
