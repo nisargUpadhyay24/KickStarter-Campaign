@@ -108,6 +108,11 @@ The second pivot table gives us the information about the number project per yea
 ![image](https://user-images.githubusercontent.com/13681798/117742429-c453b200-b1d2-11eb-9aca-37a8605983fd.png)
 
 
+Now, based on the second pivot table mentioned above, we will create a line chart to show the # of projects every years over the course of 10 years, from 2009 to 2018.
+We will use **pivot charts** from the 'Pivot Table Analyse' tab, and select column chart. It should look something like this:
+
+![image](https://user-images.githubusercontent.com/13681798/117743220-5e682a00-b1d4-11eb-9e8c-bf0ef64ee508.png)
+
 
 
 
