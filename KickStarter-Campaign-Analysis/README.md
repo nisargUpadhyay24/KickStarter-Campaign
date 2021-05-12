@@ -139,4 +139,9 @@ We would need to connect both of the pivot tables with the slicers in order to h
 3) Select both the tables to connect them with the slicers.
 4) Repeat the same process for thr remaining two slicers.
 
-Now, you can see that if you select any option from any of the slicers, both the pivot tables will change values. 
+Now, you can see that if you select any option from any of the slicers, both the pivot tables will change values. And it looks something like this:
+
+![image](https://user-images.githubusercontent.com/13681798/117971884-6caf6680-b2f8-11eb-9cce-be3fcb39d3f2.png)
+
+
+
