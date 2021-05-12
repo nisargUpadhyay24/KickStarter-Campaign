@@ -144,7 +144,7 @@ And it looks something like this:
 
 ![image](https://user-images.githubusercontent.com/13681798/117973186-10e5dd00-b2fa-11eb-9428-f9bfdb6a05c3.png)
 
-### Now, let's set up the Dashboard in a presentable way for the audience:
+## The Final Product:
 
 I usually like cohesive and well curated dashboards, so here is something that can look good for a dashboard:
 
