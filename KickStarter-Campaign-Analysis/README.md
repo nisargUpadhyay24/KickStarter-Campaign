@@ -146,10 +146,9 @@ And it looks something like this:
 
 ## The Final Product:
 
-I usually like cohesive and well curated dashboards, so here is something that can look good for a dashboard:
+I usually like cohesive and well curated dashboards, so here is something that looks good for a dashboard:
 
 ![image](https://user-images.githubusercontent.com/13681798/117974887-1512fa00-b2fc-11eb-991c-668a8dd9b200.png)
 
 
-
-
+This dashboard is dynamic and responsive, giving the user total control over how the data is presented.
