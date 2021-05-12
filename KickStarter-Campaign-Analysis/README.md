@@ -142,7 +142,8 @@ We would need to connect both of the pivot tables with the slicers in order to h
 Now, you can see that if you select any option from any of the slicers, both the pivot tables will change values. 
 And it looks something like this:
 
-![image](https://user-images.githubusercontent.com/13681798/117971884-6caf6680-b2f8-11eb-9cce-be3fcb39d3f2.png)
+![image](https://user-images.githubusercontent.com/13681798/117973186-10e5dd00-b2fa-11eb-9428-f9bfdb6a05c3.png)
+
 
 
 
